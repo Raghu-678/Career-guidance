@@ -1,0 +1,354 @@
+[
+  {
+    "title": "Software Developer",
+    "domain": "Software Engineering",
+    "description": "Designs, builds, and maintains software applications across web, desktop, and backend systems. Works with teams to translate requirements into reliable, testable code using modern languages and frameworks.",
+    "requiredSkills": [
+      { "skillName": "Python", "importance": 8, "minProficiency": 7 },
+      { "skillName": "JavaScript", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Java", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Git", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Data Structures & Algorithms", "importance": 9, "minProficiency": 7 },
+      { "skillName": "REST APIs", "importance": 8, "minProficiency": 7 },
+      { "skillName": "SQL", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Problem Solving", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Agile/Scrum", "importance": 6, "minProficiency": 5 },
+      { "skillName": "System Design", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "domain": "Data & AI",
+    "description": "Extracts insights from complex datasets using statistics, machine learning, and experimentation. Builds predictive models and communicates findings to drive business decisions.",
+    "requiredSkills": [
+      { "skillName": "Python", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Machine Learning", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Statistics", "importance": 9, "minProficiency": 8 },
+      { "skillName": "SQL", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Pandas", "importance": 9, "minProficiency": 7 },
+      { "skillName": "NumPy", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Data Visualization", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Deep Learning", "importance": 7, "minProficiency": 6 },
+      { "skillName": "A/B Testing", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Communication", "importance": 7, "minProficiency": 6 },
+      { "skillName": "TensorFlow", "importance": 6, "minProficiency": 5 }
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "domain": "Data & AI",
+    "description": "Collects, cleans, and analyzes data to produce reports and dashboards that support operational and strategic decisions. Bridges business questions with quantitative evidence.",
+    "requiredSkills": [
+      { "skillName": "SQL", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Data Analysis", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Python", "importance": 8, "minProficiency": 6 },
+      { "skillName": "Excel", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Power BI", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Tableau", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Statistics", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Data Visualization", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Communication", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Business Analysis", "importance": 6, "minProficiency": 5 }
+    ]
+  },
+  {
+    "title": "ML Engineer",
+    "domain": "Data & AI",
+    "description": "Productionizes machine learning models by building scalable training pipelines, deployment infrastructure, and monitoring systems. Bridges data science research with reliable software delivery.",
+    "requiredSkills": [
+      { "skillName": "Python", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Machine Learning", "importance": 10, "minProficiency": 8 },
+      { "skillName": "MLOps", "importance": 9, "minProficiency": 7 },
+      { "skillName": "TensorFlow", "importance": 8, "minProficiency": 7 },
+      { "skillName": "PyTorch", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Docker", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Kubernetes", "importance": 7, "minProficiency": 6 },
+      { "skillName": "AWS", "importance": 7, "minProficiency": 6 },
+      { "skillName": "REST APIs", "importance": 7, "minProficiency": 6 },
+      { "skillName": "SQL", "importance": 6, "minProficiency": 5 },
+      { "skillName": "CI/CD", "importance": 7, "minProficiency": 6 },
+      { "skillName": "System Design", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "domain": "Cloud & DevOps",
+    "description": "Automates software delivery through CI/CD pipelines, infrastructure as code, and observability tooling. Ensures systems are scalable, secure, and recoverable in production.",
+    "requiredSkills": [
+      { "skillName": "Linux", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Docker", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Kubernetes", "importance": 9, "minProficiency": 7 },
+      { "skillName": "CI/CD", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Terraform", "importance": 8, "minProficiency": 7 },
+      { "skillName": "AWS", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Git", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Python", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Networking", "importance": 7, "minProficiency": 6 },
+      { "skillName": "DevOps Practices", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Monitoring & Logging", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Cloud Engineer",
+    "domain": "Cloud & DevOps",
+    "description": "Designs and operates cloud-native architectures on AWS, Azure, or GCP. Implements security, cost optimization, and high-availability patterns for enterprise workloads.",
+    "requiredSkills": [
+      { "skillName": "AWS", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Azure", "importance": 7, "minProficiency": 6 },
+      { "skillName": "GCP", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Cloud Architecture", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Terraform", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Docker", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Kubernetes", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Linux", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Networking", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Security Analysis", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Python", "importance": 6, "minProficiency": 5 }
+    ]
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "domain": "Cybersecurity",
+    "description": "Monitors networks and systems for threats, investigates security incidents, and implements controls to protect organizational assets. Applies risk-based thinking to vulnerability management.",
+    "requiredSkills": [
+      { "skillName": "Network Security", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Security Analysis", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Linux", "importance": 8, "minProficiency": 7 },
+      { "skillName": "SIEM", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Incident Response", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Penetration Testing", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Risk Assessment", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Cryptography", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Threat Modeling", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Python", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Networking", "importance": 8, "minProficiency": 7 }
+    ]
+  },
+  {
+    "title": "UI/UX Designer",
+    "domain": "Design & Product",
+    "description": "Creates intuitive user interfaces and research-backed experiences through wireframes, prototypes, and design systems. Collaborates with product and engineering to ship usable products.",
+    "requiredSkills": [
+      { "skillName": "UI Design", "importance": 10, "minProficiency": 8 },
+      { "skillName": "UX Research", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Figma", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Wireframing", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Prototyping", "importance": 8, "minProficiency": 7 },
+      { "skillName": "User Research", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Communication", "importance": 8, "minProficiency": 7 },
+      { "skillName": "HTML/CSS", "importance": 6, "minProficiency": 5 },
+      { "skillName": "JavaScript", "importance": 5, "minProficiency": 4 },
+      { "skillName": "Problem Solving", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Product Manager",
+    "domain": "Design & Product",
+    "description": "Defines product vision, prioritizes features, and aligns cross-functional teams to deliver customer value. Uses data, user feedback, and market research to guide the roadmap.",
+    "requiredSkills": [
+      { "skillName": "Product Strategy", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Stakeholder Management", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Communication", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Agile/Scrum", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Market Research", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Data Analysis", "importance": 7, "minProficiency": 6 },
+      { "skillName": "User Research", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Project Management", "importance": 8, "minProficiency": 7 },
+      { "skillName": "SQL", "importance": 5, "minProficiency": 4 },
+      { "skillName": "Leadership", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Jira", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Business Analyst",
+    "domain": "Business & Analysis",
+    "description": "Translates business needs into functional requirements, process maps, and acceptance criteria. Facilitates stakeholder alignment and supports change management across projects.",
+    "requiredSkills": [
+      { "skillName": "Business Analysis", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Requirements Gathering", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Communication", "importance": 9, "minProficiency": 8 },
+      { "skillName": "SQL", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Data Analysis", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Agile/Scrum", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Excel", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Power BI", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Stakeholder Management", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Problem Solving", "importance": 8, "minProficiency": 7 }
+    ]
+  },
+  {
+    "title": "QA Engineer",
+    "domain": "Software Engineering",
+    "description": "Ensures software quality through manual and automated testing, test planning, and defect tracking. Validates that applications meet functional, performance, and regression standards.",
+    "requiredSkills": [
+      { "skillName": "Manual Testing", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Test Automation", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Selenium", "importance": 8, "minProficiency": 7 },
+      { "skillName": "API Testing", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Java", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Python", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Git", "importance": 7, "minProficiency": 6 },
+      { "skillName": "CI/CD", "importance": 6, "minProficiency": 5 },
+      { "skillName": "SQL", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Agile/Scrum", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Problem Solving", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Mobile Developer",
+    "domain": "Software Engineering",
+    "description": "Builds native or cross-platform mobile applications for iOS and Android. Implements responsive UI, offline support, and integration with backend APIs and device features.",
+    "requiredSkills": [
+      { "skillName": "Mobile Development", "importance": 10, "minProficiency": 8 },
+      { "skillName": "React Native", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Flutter", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Swift", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Kotlin", "importance": 7, "minProficiency": 6 },
+      { "skillName": "JavaScript", "importance": 8, "minProficiency": 7 },
+      { "skillName": "REST APIs", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Git", "importance": 8, "minProficiency": 7 },
+      { "skillName": "UI Design", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Android Development", "importance": 7, "minProficiency": 6 },
+      { "skillName": "iOS Development", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "domain": "Software Engineering",
+    "description": "Develops end-to-end web applications spanning frontend interfaces, backend services, and databases. Owns features from UI implementation through API design and deployment.",
+    "requiredSkills": [
+      { "skillName": "JavaScript", "importance": 10, "minProficiency": 8 },
+      { "skillName": "React.js", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Node.js", "importance": 9, "minProficiency": 7 },
+      { "skillName": "REST APIs", "importance": 9, "minProficiency": 7 },
+      { "skillName": "SQL", "importance": 8, "minProficiency": 7 },
+      { "skillName": "MongoDB", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Git", "importance": 8, "minProficiency": 7 },
+      { "skillName": "HTML/CSS", "importance": 8, "minProficiency": 7 },
+      { "skillName": "System Design", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Docker", "importance": 6, "minProficiency": 5 },
+      { "skillName": "TypeScript", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Backend Developer",
+    "domain": "Software Engineering",
+    "description": "Builds server-side logic, APIs, and data layers that power applications. Focuses on performance, security, scalability, and integration with databases and third-party services.",
+    "requiredSkills": [
+      { "skillName": "Java", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Python", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Node.js", "importance": 8, "minProficiency": 7 },
+      { "skillName": "REST APIs", "importance": 10, "minProficiency": 8 },
+      { "skillName": "SQL", "importance": 9, "minProficiency": 7 },
+      { "skillName": "PostgreSQL", "importance": 8, "minProficiency": 7 },
+      { "skillName": "System Design", "importance": 9, "minProficiency": 7 },
+      { "skillName": "Docker", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Git", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Redis", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Spring Boot", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "domain": "Software Engineering",
+    "description": "Implements responsive, accessible user interfaces using modern JavaScript frameworks. Optimizes performance, state management, and component architecture for web applications.",
+    "requiredSkills": [
+      { "skillName": "JavaScript", "importance": 10, "minProficiency": 8 },
+      { "skillName": "React.js", "importance": 10, "minProficiency": 8 },
+      { "skillName": "TypeScript", "importance": 8, "minProficiency": 7 },
+      { "skillName": "HTML/CSS", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Git", "importance": 8, "minProficiency": 7 },
+      { "skillName": "REST APIs", "importance": 7, "minProficiency": 6 },
+      { "skillName": "UI Design", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Problem Solving", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Webpack", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Testing Library", "importance": 6, "minProficiency": 5 }
+    ]
+  },
+  {
+    "title": "Database Administrator",
+    "domain": "Infrastructure",
+    "description": "Manages database systems including installation, backup, recovery, performance tuning, and security. Ensures data integrity and availability for mission-critical applications.",
+    "requiredSkills": [
+      { "skillName": "SQL", "importance": 10, "minProficiency": 9 },
+      { "skillName": "Database Administration", "importance": 10, "minProficiency": 8 },
+      { "skillName": "PostgreSQL", "importance": 8, "minProficiency": 7 },
+      { "skillName": "SQL Optimization", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Linux", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Backup & Recovery", "importance": 9, "minProficiency": 7 },
+      { "skillName": "MongoDB", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Networking", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Security Analysis", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Python", "importance": 5, "minProficiency": 4 }
+    ]
+  },
+  {
+    "title": "Network Engineer",
+    "domain": "Infrastructure",
+    "description": "Designs, implements, and maintains enterprise network infrastructure including routing, switching, firewalls, and WAN connectivity. Troubleshoots connectivity and performance issues.",
+    "requiredSkills": [
+      { "skillName": "Networking", "importance": 10, "minProficiency": 9 },
+      { "skillName": "Network Administration", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Network Security", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Linux", "importance": 7, "minProficiency": 6 },
+      { "skillName": "TCP/IP", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Routing & Switching", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Firewall Configuration", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Troubleshooting", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Cloud Networking", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Python", "importance": 5, "minProficiency": 4 }
+    ]
+  },
+  {
+    "title": "AI Research Engineer",
+    "domain": "Emerging Tech",
+    "description": "Advances state-of-the-art AI through research, experimentation, and publication-quality implementations. Prototypes novel architectures and evaluates them on benchmark tasks.",
+    "requiredSkills": [
+      { "skillName": "Python", "importance": 10, "minProficiency": 9 },
+      { "skillName": "Deep Learning", "importance": 10, "minProficiency": 9 },
+      { "skillName": "PyTorch", "importance": 9, "minProficiency": 8 },
+      { "skillName": "Machine Learning", "importance": 10, "minProficiency": 9 },
+      { "skillName": "Statistics", "importance": 8, "minProficiency": 7 },
+      { "skillName": "NLP", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Computer Vision", "importance": 7, "minProficiency": 6 },
+      { "skillName": "NumPy", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Research Methods", "importance": 8, "minProficiency": 7 },
+      { "skillName": "TensorFlow", "importance": 6, "minProficiency": 5 },
+      { "skillName": "MLOps", "importance": 6, "minProficiency": 5 }
+    ]
+  },
+  {
+    "title": "Blockchain Developer",
+    "domain": "Emerging Tech",
+    "description": "Builds decentralized applications, smart contracts, and blockchain integrations. Works with Web3 protocols, cryptographic primitives, and token economics.",
+    "requiredSkills": [
+      { "skillName": "Solidity", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Smart Contracts", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Blockchain", "importance": 10, "minProficiency": 8 },
+      { "skillName": "JavaScript", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Web3.js", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Cryptography", "importance": 8, "minProficiency": 7 },
+      { "skillName": "Node.js", "importance": 7, "minProficiency": 6 },
+      { "skillName": "REST APIs", "importance": 6, "minProficiency": 5 },
+      { "skillName": "Security Analysis", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Git", "importance": 7, "minProficiency": 6 }
+    ]
+  },
+  {
+    "title": "Technical Writer",
+    "domain": "Content & Documentation",
+    "description": "Creates clear documentation, API references, tutorials, and release notes for technical products. Translates complex systems into accessible content for developers and end users.",
+    "requiredSkills": [
+      { "skillName": "Technical Writing", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Documentation", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Communication", "importance": 10, "minProficiency": 8 },
+      { "skillName": "Markdown", "importance": 8, "minProficiency": 7 },
+      { "skillName": "REST APIs", "importance": 7, "minProficiency": 6 },
+      { "skillName": "Git", "importance": 7, "minProficiency": 6 },
+      { "skillName": "JavaScript", "importance": 5, "minProficiency": 4 },
+      { "skillName": "Python", "importance": 5, "minProficiency": 4 },
+      { "skillName": "Confluence", "importance": 7, "minProficiency": 6 },
+      { "skillName": "User Research", "importance": 6, "minProficiency": 5 }
+    ]
+  }
+]

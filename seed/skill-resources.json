@@ -1,0 +1,350 @@
+{
+  "Python": [
+    { "name": "Harvard CS50's Introduction to Programming with Python", "url": "https://cs50.harvard.edu/python/" },
+    { "name": "Real Python Tutorials", "url": "https://realpython.com/" }
+  ],
+  "JavaScript": [
+    { "name": "freeCodeCamp JavaScript Algorithms and Data Structures", "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" },
+    { "name": "MDN JavaScript Guide", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" }
+  ],
+  "Java": [
+    { "name": "Oracle Java Tutorials", "url": "https://docs.oracle.com/javase/tutorial/" },
+    { "name": "Coursera — Java Programming and Software Engineering Fundamentals", "url": "https://www.coursera.org/specializations/java-programming" }
+  ],
+  "Git": [
+    { "name": "Pro Git Book", "url": "https://git-scm.com/book/en/v2" },
+    { "name": "Atlassian Git Tutorials", "url": "https://www.atlassian.com/git/tutorials" }
+  ],
+  "Data Structures & Algorithms": [
+    { "name": "Coursera — Algorithms Specialization (Stanford)", "url": "https://www.coursera.org/specializations/algorithms" },
+    { "name": "freeCodeCamp — Full Data Structures & Algorithms Course", "url": "https://www.freecodecamp.org/news/data-structures-and-algorithms-in-python/" }
+  ],
+  "REST APIs": [
+    { "name": "MDN — An overview of HTTP", "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview" },
+    { "name": "REST API Tutorial", "url": "https://restfulapi.net/" }
+  ],
+  "SQL": [
+    { "name": "SQLBolt — Interactive SQL Lessons", "url": "https://sqlbolt.com/" },
+    { "name": "Mode Analytics SQL Tutorial", "url": "https://mode.com/sql-tutorial/" }
+  ],
+  "Problem Solving": [
+    { "name": "LeetCode Explore Cards", "url": "https://leetcode.com/explore/" },
+    { "name": "Coursera — Learning How to Learn", "url": "https://www.coursera.org/learn/learning-how-to-learn" }
+  ],
+  "Agile/Scrum": [
+    { "name": "Scrum.org — Scrum Guide", "url": "https://scrumguides.org/scrum-guide.html" },
+    { "name": "Coursera — Agile Development Specialization", "url": "https://www.coursera.org/specializations/agile-development" }
+  ],
+  "System Design": [
+    { "name": "System Design Primer (GitHub)", "url": "https://github.com/donnemartin/system-design-primer" },
+    { "name": "Educative — Grokking the System Design Interview", "url": "https://www.educative.io/courses/grokking-the-system-design-interview" }
+  ],
+  "Machine Learning": [
+    { "name": "Coursera — Machine Learning Specialization (Andrew Ng)", "url": "https://www.coursera.org/specializations/machine-learning-introduction" },
+    { "name": "fast.ai — Practical Deep Learning for Coders", "url": "https://course.fast.ai/" }
+  ],
+  "Statistics": [
+    { "name": "Khan Academy — Statistics and Probability", "url": "https://www.khanacademy.org/math/statistics-probability" },
+    { "name": "Coursera — Basic Statistics (University of Amsterdam)", "url": "https://www.coursera.org/learn/basic-statistics" }
+  ],
+  "Pandas": [
+    { "name": "Real Python — Pandas Tutorial", "url": "https://realpython.com/pandas-python-explore-dataset/" },
+    { "name": "Official Pandas Documentation", "url": "https://pandas.pydata.org/docs/getting_started/index.html" }
+  ],
+  "NumPy": [
+    { "name": "NumPy Official Getting Started", "url": "https://numpy.org/doc/stable/user/absolute_beginners.html" },
+    { "name": "Real Python — NumPy Tutorial", "url": "https://realpython.com/numpy-tutorial/" }
+  ],
+  "Data Visualization": [
+    { "name": "Coursera — Data Visualization with Tableau Specialization", "url": "https://www.coursera.org/specializations/data-visualization" },
+    { "name": "Matplotlib Tutorials", "url": "https://matplotlib.org/stable/tutorials/index.html" }
+  ],
+  "Deep Learning": [
+    { "name": "fast.ai — Practical Deep Learning for Coders", "url": "https://course.fast.ai/" },
+    { "name": "Coursera — Deep Learning Specialization", "url": "https://www.coursera.org/specializations/deep-learning" }
+  ],
+  "A/B Testing": [
+    { "name": "Google — Trust, Safety & User Testing (Experimentation)", "url": "https://developers.google.com/analytics/devguides/collection/ga4" },
+    { "name": "Coursera — A/B Testing and Experiment Design", "url": "https://www.coursera.org/learn/abtesting" }
+  ],
+  "Communication": [
+    { "name": "Coursera — Communication in the 21st Century Workplace", "url": "https://www.coursera.org/learn/communication-in-the-workplace" },
+    { "name": "Toastmasters International — Public Speaking Resources", "url": "https://www.toastmasters.org/resources" }
+  ],
+  "TensorFlow": [
+    { "name": "TensorFlow Official Tutorials", "url": "https://www.tensorflow.org/tutorials" },
+    { "name": "Coursera — TensorFlow Developer Professional Certificate", "url": "https://www.coursera.org/professional-certificates/tensorflow-in-practice" }
+  ],
+  "Data Analysis": [
+    { "name": "Google Data Analytics Professional Certificate", "url": "https://www.coursera.org/professional-certificates/google-data-analytics" },
+    { "name": "Kaggle Learn — Data Analysis", "url": "https://www.kaggle.com/learn/data-analysis" }
+  ],
+  "Excel": [
+    { "name": "Microsoft Learn — Excel Training", "url": "https://learn.microsoft.com/en-us/training/browse/?products=excel" },
+    { "name": "Coursera — Excel Skills for Business Specialization", "url": "https://www.coursera.org/specializations/excel" }
+  ],
+  "Power BI": [
+    { "name": "Microsoft Learn — Power BI Learning Paths", "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi" },
+    { "name": "Coursera — Data Visualization with Power BI", "url": "https://www.coursera.org/learn/data-visualization-power-bi" }
+  ],
+  "Tableau": [
+    { "name": "Tableau Free Training Videos", "url": "https://www.tableau.com/learn/training" },
+    { "name": "Coursera — Data Visualization with Tableau Specialization", "url": "https://www.coursera.org/specializations/data-visualization-tableau" }
+  ],
+  "Business Analysis": [
+    { "name": "IIBA — Business Analysis Body of Knowledge (BABOK)", "url": "https://www.iiba.org/standards-and-resources/babok/" },
+    { "name": "Coursera — Business Analytics Specialization", "url": "https://www.coursera.org/specializations/business-analytics" }
+  ],
+  "MLOps": [
+    { "name": "Coursera — Machine Learning Engineering for Production (MLOps)", "url": "https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops" },
+    { "name": "Made With ML — MLOps Guide", "url": "https://madewithml.com/" }
+  ],
+  "PyTorch": [
+    { "name": "PyTorch Official Tutorials", "url": "https://pytorch.org/tutorials/" },
+    { "name": "fast.ai — Practical Deep Learning for Coders", "url": "https://course.fast.ai/" }
+  ],
+  "Docker": [
+    { "name": "Docker Official Get Started Guide", "url": "https://docs.docker.com/get-started/" },
+    { "name": "freeCodeCamp — Docker Tutorial for Beginners", "url": "https://www.freecodecamp.org/news/docker-full-course/" }
+  ],
+  "Kubernetes": [
+    { "name": "Kubernetes Official Tutorials", "url": "https://kubernetes.io/docs/tutorials/" },
+    { "name": "Coursera — Architecting with Google Kubernetes Engine", "url": "https://www.coursera.org/specializations/architecting-google-kubernetes-engine" }
+  ],
+  "AWS": [
+    { "name": "AWS Skill Builder — Free Digital Training", "url": "https://skillbuilder.aws/" },
+    { "name": "Coursera — AWS Cloud Solutions Architect Professional Certificate", "url": "https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect" }
+  ],
+  "CI/CD": [
+    { "name": "GitHub Actions Documentation", "url": "https://docs.github.com/en/actions" },
+    { "name": "Atlassian — CI/CD Guide", "url": "https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment" }
+  ],
+  "Linux": [
+    { "name": "Linux Journey — Interactive Guide", "url": "https://linuxjourney.com/" },
+    { "name": "Coursera — Open Source Software Development, Linux and Git Specialization", "url": "https://www.coursera.org/specializations/oss-development-linux-git" }
+  ],
+  "Terraform": [
+    { "name": "HashiCorp Learn — Terraform", "url": "https://developer.hashicorp.com/terraform/tutorials" },
+    { "name": "Coursera — Infrastructure Automation with Terraform", "url": "https://www.coursera.org/learn/terraform-aws" }
+  ],
+  "DevOps Practices": [
+    { "name": "Google SRE Book — DevOps Principles", "url": "https://sre.google/sre-book/table-of-contents/" },
+    { "name": "Coursera — DevOps Culture and Mindset", "url": "https://www.coursera.org/learn/devops-culture-mindset" }
+  ],
+  "Monitoring & Logging": [
+    { "name": "Prometheus — Getting Started", "url": "https://prometheus.io/docs/introduction/first_steps/" },
+    { "name": "Elastic — Observability Guide", "url": "https://www.elastic.co/observability" }
+  ],
+  "Azure": [
+    { "name": "Microsoft Learn — Azure Fundamentals", "url": "https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/" },
+    { "name": "Coursera — Microsoft Azure Fundamentals AZ-900 Exam Prep", "url": "https://www.coursera.org/learn/microsoft-azure-fundamentals-az-900" }
+  ],
+  "GCP": [
+    { "name": "Google Cloud Skills Boost", "url": "https://www.cloudskillsboost.google/" },
+    { "name": "Coursera — Google Cloud Fundamentals", "url": "https://www.coursera.org/specializations/gcp-fundamentals" }
+  ],
+  "Cloud Architecture": [
+    { "name": "AWS Well-Architected Framework", "url": "https://aws.amazon.com/architecture/well-architected/" },
+    { "name": "Google Cloud Architecture Center", "url": "https://cloud.google.com/architecture" }
+  ],
+  "Security Analysis": [
+    { "name": "Cybrary — Introduction to IT & Cybersecurity", "url": "https://www.cybrary.it/course/introduction-to-it-and-cybersecurity" },
+    { "name": "Coursera — IBM Cybersecurity Analyst Professional Certificate", "url": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst" }
+  ],
+  "Networking": [
+    { "name": "Cisco Networking Academy — Introduction to Networks", "url": "https://www.netacad.com/courses/networking" },
+    { "name": "Practical Networking — Free Networking Courses", "url": "https://www.practicalnetworking.net/free-ccna-training/" }
+  ],
+  "Network Security": [
+    { "name": "Coursera — Introduction to Cyber Security Specialization", "url": "https://www.coursera.org/specializations/intro-cyber-security" },
+    { "name": "TryHackMe — Network Security Path", "url": "https://tryhackme.com/path/outline/networksecurity" }
+  ],
+  "SIEM": [
+    { "name": "Splunk — Fundamentals 1 (Free)", "url": "https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html" },
+    { "name": "Elastic — SIEM Documentation", "url": "https://www.elastic.co/guide/en/security/current/index.html" }
+  ],
+  "Incident Response": [
+    { "name": "SANS — Incident Handler's Handbook", "url": "https://www.sans.org/white-papers/33901/" },
+    { "name": "NIST — Computer Security Incident Handling Guide (SP 800-61)", "url": "https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final" }
+  ],
+  "Penetration Testing": [
+    { "name": "TryHackMe — Offensive Pentesting Path", "url": "https://tryhackme.com/path/outline/pentesting" },
+    { "name": "OWASP Web Security Testing Guide", "url": "https://owasp.org/www-project-web-security-testing-guide/" }
+  ],
+  "Risk Assessment": [
+    { "name": "NIST — Risk Management Framework", "url": "https://csrc.nist.gov/projects/risk-management" },
+    { "name": "Coursera — Cybersecurity Risk Management Framework", "url": "https://www.coursera.org/learn/cybersecurity-risk-management-framework" }
+  ],
+  "Cryptography": [
+    { "name": "Coursera — Cryptography I (Stanford)", "url": "https://www.coursera.org/learn/crypto" },
+    { "name": "Crypto101 — Free Introductory Course", "url": "https://www.crypto101.io/" }
+  ],
+  "Threat Modeling": [
+    { "name": "OWASP — Threat Modeling", "url": "https://owasp.org/www-community/Threat_Modeling" },
+    { "name": "Microsoft — Threat Modeling Tool Documentation", "url": "https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool" }
+  ],
+  "UI Design": [
+    { "name": "Google UX Design Professional Certificate", "url": "https://www.coursera.org/professional-certificates/google-ux-design" },
+    { "name": "Refactoring UI — Design Tips", "url": "https://www.refactoringui.com/" }
+  ],
+  "UX Research": [
+    { "name": "Nielsen Norman Group — UX Research Articles", "url": "https://www.nngroup.com/topic/user-research/" },
+    { "name": "Coursera — User Experience Research and Design Specialization", "url": "https://www.coursera.org/specializations/michiganux" }
+  ],
+  "Figma": [
+    { "name": "Figma Learn — Design Basics", "url": "https://www.figma.com/resource-library/design-basics/" },
+    { "name": "Figma Help Center — Getting Started", "url": "https://help.figma.com/hc/en-us/categories/360002051613-Getting-Started" }
+  ],
+  "Wireframing": [
+    { "name": "Balsamiq — Wireframing Academy", "url": "https://balsamiq.com/learn/" },
+    { "name": "Coursera — UI/UX Design Specialization", "url": "https://www.coursera.org/specializations/ui-ux-design" }
+  ],
+  "Prototyping": [
+    { "name": "Figma — Prototyping Guide", "url": "https://help.figma.com/hc/en-us/categories/360002051614-Prototyping" },
+    { "name": "Interaction Design Foundation — Prototyping", "url": "https://www.interaction-design.org/literature/topics/prototyping" }
+  ],
+  "User Research": [
+    { "name": "Nielsen Norman Group — User Research", "url": "https://www.nngroup.com/articles/which-ux-research-methods/" },
+    { "name": "Coursera — Qualitative Research Methods", "url": "https://www.coursera.org/learn/qualitative-research-methods" }
+  ],
+  "HTML/CSS": [
+    { "name": "MDN — Learn Web Development", "url": "https://developer.mozilla.org/en-US/docs/Learn" },
+    { "name": "freeCodeCamp — Responsive Web Design Certification", "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/" }
+  ],
+  "Product Strategy": [
+    { "name": "Coursera — Digital Product Management Specialization", "url": "https://www.coursera.org/specializations/product-management" },
+    { "name": "Reforge — Product Strategy Resources", "url": "https://www.reforge.com/blog" }
+  ],
+  "Stakeholder Management": [
+    { "name": "Coursera — Influencing People", "url": "https://www.coursera.org/learn/influencing-people" },
+    { "name": "PMI — Stakeholder Engagement Resources", "url": "https://www.pmi.org/learning/library/stakeholder-engagement-strategies-11163" }
+  ],
+  "Market Research": [
+    { "name": "Coursera — Market Research and Consumer Behavior", "url": "https://www.coursera.org/learn/market-research" },
+    { "name": "HubSpot — Market Research Guide", "url": "https://blog.hubspot.com/marketing/market-research" }
+  ],
+  "Project Management": [
+    { "name": "Google Project Management Professional Certificate", "url": "https://www.coursera.org/professional-certificates/google-project-management" },
+    { "name": "PMI — Project Management Basics", "url": "https://www.pmi.org/learning/training-development/project-management-basics" }
+  ],
+  "Leadership": [
+    { "name": "Coursera — Leading People and Teams Specialization", "url": "https://www.coursera.org/specializations/leading-teams" },
+    { "name": "Harvard Business Review — Leadership Articles", "url": "https://hbr.org/topic/subject/leadership" }
+  ],
+  "Jira": [
+    { "name": "Atlassian University — Jira Fundamentals", "url": "https://university.atlassian.com/student/catalog/list?category_ids=13401-jira" },
+    { "name": "Atlassian — Jira Software Documentation", "url": "https://support.atlassian.com/jira-software-cloud/" }
+  ],
+  "Requirements Gathering": [
+    { "name": "IIBA — Requirements Analysis and Design Definition", "url": "https://www.iiba.org/knowledgehub/business-analysis-body-of-knowledge-babok-guide/" },
+    { "name": "Coursera — Software Requirements Specification", "url": "https://www.coursera.org/learn/requirements-writing" }
+  ],
+  "Manual Testing": [
+    { "name": "Guru99 — Manual Testing Tutorial", "url": "https://www.guru99.com/manual-testing.html" },
+    { "name": "Coursera — Software Testing and Automation Specialization", "url": "https://www.coursera.org/specializations/software-testing-automation" }
+  ],
+  "Test Automation": [
+    { "name": "Test Automation University (Applitools)", "url": "https://testautomationu.applitools.com/" },
+    { "name": "Coursera — Automated Software Testing", "url": "https://www.coursera.org/learn/automated-software-testing" }
+  ],
+  "Selenium": [
+    { "name": "Selenium Official Documentation", "url": "https://www.selenium.dev/documentation/" },
+    { "name": "Test Automation University — Selenium WebDriver with Java", "url": "https://testautomationu.applitools.com/selenium-webdriver-with-java/" }
+  ],
+  "API Testing": [
+    { "name": "Postman Learning Center", "url": "https://learning.postman.com/" },
+    { "name": "Rest Assured — API Testing Tutorial", "url": "https://rest-assured.io/" }
+  ],
+  "Mobile Development": [
+    { "name": "Google — Android Basics with Compose", "url": "https://developer.android.com/courses/android-basics-compose/course" },
+    { "name": "Apple Developer — SwiftUI Tutorials", "url": "https://developer.apple.com/tutorials/swiftui" }
+  ],
+  "React Native": [
+    { "name": "React Native Official Documentation", "url": "https://reactnative.dev/docs/getting-started" },
+    { "name": "freeCodeCamp — React Native Course", "url": "https://www.freecodecamp.org/news/react-native-tutorial-build-ios-and-android-app-javascript/" }
+  ],
+  "Flutter": [
+    { "name": "Flutter Official Codelabs", "url": "https://docs.flutter.dev/codelabs" },
+    { "name": "Google Codelabs — Flutter", "url": "https://codelabs.developers.google.com/?cat=Flutter" }
+  ],
+  "Swift": [
+    { "name": "Apple — Swift Programming Language Guide", "url": "https://docs.swift.org/swift-book/" },
+    { "name": "Hacking with Swift — 100 Days of SwiftUI", "url": "https://www.hackingwithswift.com/100/swiftui" }
+  ],
+  "Kotlin": [
+    { "name": "Kotlin Official Documentation", "url": "https://kotlinlang.org/docs/home.html" },
+    { "name": "Google — Android Basics with Kotlin", "url": "https://developer.android.com/courses/android-basics-kotlin/course" }
+  ],
+  "React.js": [
+    { "name": "React Official Documentation — Learn React", "url": "https://react.dev/learn" },
+    { "name": "freeCodeCamp — Front End Development Libraries Certification", "url": "https://www.freecodecamp.org/learn/front-end-development-libraries/" }
+  ],
+  "Node.js": [
+    { "name": "Node.js Official Getting Started Guide", "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" },
+    { "name": "freeCodeCamp — Backend Development and APIs Certification", "url": "https://www.freecodecamp.org/learn/back-end-development-and-apis/" }
+  ],
+  "MongoDB": [
+    { "name": "MongoDB University — Free Courses", "url": "https://learn.mongodb.com/" },
+    { "name": "MongoDB Official Documentation", "url": "https://www.mongodb.com/docs/manual/" }
+  ],
+  "TypeScript": [
+    { "name": "TypeScript Official Handbook", "url": "https://www.typescriptlang.org/docs/handbook/intro.html" },
+    { "name": "freeCodeCamp — TypeScript Course", "url": "https://www.freecodecamp.org/news/learn-typescript-with-react-free-course/" }
+  ],
+  "PostgreSQL": [
+    { "name": "PostgreSQL Official Tutorial", "url": "https://www.postgresql.org/docs/current/tutorial.html" },
+    { "name": "PostgreSQL Exercises", "url": "https://pgexercises.com/" }
+  ],
+  "Redis": [
+    { "name": "Redis University — Free Courses", "url": "https://university.redis.com/" },
+    { "name": "Redis Official Documentation", "url": "https://redis.io/docs/latest/" }
+  ],
+  "Spring Boot": [
+    { "name": "Spring Official Guides", "url": "https://spring.io/guides" },
+    { "name": "Baeldung — Spring Boot Tutorials", "url": "https://www.baeldung.com/spring-boot" }
+  ],
+  "Database Administration": [
+    { "name": "Oracle — Database Administration Learning Library", "url": "https://docs.oracle.com/en/database/" },
+    { "name": "Coursera — Databases for Data Scientists Specialization", "url": "https://www.coursera.org/specializations/databases-for-data-scientists" }
+  ],
+  "SQL Optimization": [
+    { "name": "Use The Index, Luke — SQL Indexing and Tuning", "url": "https://use-the-index-luke.com/" },
+    { "name": "PostgreSQL — Performance Tips", "url": "https://www.postgresql.org/docs/current/performance-tips.html" }
+  ],
+  "Solidity": [
+    { "name": "CryptoZombies — Learn Solidity", "url": "https://cryptozombies.io/" },
+    { "name": "Solidity Official Documentation", "url": "https://docs.soliditylang.org/en/latest/" }
+  ],
+  "Smart Contracts": [
+    { "name": "Ethereum.org — Smart Contracts", "url": "https://ethereum.org/en/developers/docs/smart-contracts/" },
+    { "name": "OpenZeppelin — Learn Smart Contract Development", "url": "https://docs.openzeppelin.com/learn/" }
+  ],
+  "Blockchain": [
+    { "name": "Coursera — Blockchain Specialization (Buffalo)", "url": "https://www.coursera.org/specializations/blockchain" },
+    { "name": "Ethereum.org — Developer Resources", "url": "https://ethereum.org/en/developers/" }
+  ],
+  "Web3.js": [
+    { "name": "Web3.js Official Documentation", "url": "https://web3js.readthedocs.io/en/v1.10.0/" },
+    { "name": "Alchemy — Web3 Developer Platform Docs", "url": "https://docs.alchemy.com/docs" }
+  ],
+  "Technical Writing": [
+    { "name": "Google — Technical Writing Courses", "url": "https://developers.google.com/tech-writing" },
+    { "name": "Write the Docs — Documentation Guide", "url": "https://www.writethedocs.org/guide/" }
+  ],
+  "Documentation": [
+    { "name": "Write the Docs — Documentation Guide", "url": "https://www.writethedocs.org/guide/" },
+    { "name": "GitHub — Documenting Your Project", "url": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github" }
+  ],
+  "Markdown": [
+    { "name": "Markdown Guide — Getting Started", "url": "https://www.markdownguide.org/getting-started/" },
+    { "name": "CommonMark Spec", "url": "https://commonmark.org/help/" }
+  ],
+  "NLP": [
+    { "name": "Coursera — Natural Language Processing Specialization", "url": "https://www.coursera.org/specializations/natural-language-processing" },
+    { "name": "Hugging Face — NLP Course", "url": "https://huggingface.co/learn/nlp-course/chapter1/1" }
+  ],
+  "Computer Vision": [
+    { "name": "PyImageSearch — OpenCV Tutorials", "url": "https://pyimagesearch.com/start-here/" },
+    { "name": "Coursera — Deep Learning Specialization (CNN week)", "url": "https://www.coursera.org/specializations/deep-learning" }
+  ]
+}
