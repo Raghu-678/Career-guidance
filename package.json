@@ -1,0 +1,17 @@
+{
+  "name": "career-guidance-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered Career Guidance & Roadmap platform for students",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix frontend",
+    "seed": "npm run seed --prefix backend",
+    "seed:demo": "npm run seed:demo --prefix backend",
+    "test": "npm run test --prefix backend",
+    "build": "npm run build --prefix frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
